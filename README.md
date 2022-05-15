@@ -47,3 +47,19 @@
 ### 3. softbus
 
 ![softbus](./img/softbus.png)
+
+## 镜像获取
+
+### BaiduNetdisk
+
+
+
+提取码为实验室WiFi密码
+
+### Usage
+
+https://stackoverflow.com/questions/19355036/how-to-create-an-img-image-of-a-disc-sd-card-without-including-free-space
+
+因为采用了gzip压缩，所以恢复的方式参考mvp的方法还原到sd卡即可。
+
+压完了感觉和一般的img也没什么区别，应该用etcher或者rufus之类的工具操作也行。
