@@ -52,9 +52,9 @@
 
 ### BaiduNetdisk
 
+https://pan.baidu.com/s/1VgpfdGWo-Fm3UP6RNo9q3w
 
-
-提取码为实验室WiFi密码
+提取码为实验室WiFi密码后4位
 
 ### Usage
 
